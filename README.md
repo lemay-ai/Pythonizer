@@ -1,5 +1,5 @@
 # Pythonizer
-Formats code into looking much more fabulous
+Ever wanted to use python but were stuck writing code in Java? Now you can have the best of both worlds!
 
 How to use:
 

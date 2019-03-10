@@ -5,6 +5,6 @@ How to use:
 
 ```./pythonizer <java_file_name.java>```
 
-Example change: (sample from https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/UnsortedSetTest.java)
+Example change: (sample from https://github.com/GoogleCloudPlatform/java-docs-samples/blob/master/bigquery/cloud-client/src/main/java/com/example/bigquery/QuickstartSample.java)
 
 ```./pythonizer sample_java.java```
